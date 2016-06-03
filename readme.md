@@ -49,3 +49,23 @@ I was going to a couple meetups a week and interacting with developers that had 
 My stress about finding a job and my insecurities about my skills set me adrift. My time was divided and unfocused, a few hours learning about CS fundamentals, a few improving my old projects, a few starting new projects, a few looking up jobs, a few at home, a few at GA, a few at coffee shops.
 
 I was trying to do everything at once and as a result didn't make much progress on anything. If I was to do it over again I would have spent the time prior to the meet and hire focused completely on improving my old projects. Then after the meet and hire spent as much time as possible applying to jobs and interviewing.
+
+
+# The Job Search and Confidence (Brian)
+
+* Framing what you don't know
+	* Washington Post Example - goal of phone screen is to identify what you don't know.
+	* How will you frame what you don't know?
+		* Talk about what you've learned
+		* Talk about the obsticales that you've overcame
+		* Talk about when you failed
+		* Talk about how you will learn what you don't know
+	* You've had a lot of experiences here - leverage those experiences as you progress forward 
+* Confidence 
+	* Most graduates don't struggle with a lack of knownledge or understanding, but more a lack of confidence!
+	* Think about what you have learned in 12 weeks
+		*Think about where you were 12 weeks ago. 6 weeks ago, etc. (I interviewed all of you, so I know!)
+	*Think about all the things that you will continue to learn as a developer
+	*Confidence is huge -- trust yourself and trust what you are able to accomplish
+	
+
