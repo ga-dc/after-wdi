@@ -44,7 +44,7 @@
 
 After WDI I felt like an imposter, and that despite all I had learned I still wasn't qualified to be employed anywhere.
 
-I was going to a couple meetups a week and interacting with developers that had many more years of experience than me. They made me keenly aware of how little I knew in the scheme knowledge relating to programming and I was hungry to learn more. I felt wan looking at the projects and products of the companies that I wanted to work for. To me it seemed like I had to be as good as other developers before anyone would even consider paying me to do anything.
+I was going to a couple meetups a week and interacting with developers that had many more years of experience than me. They made me keenly aware of how little I knew out of the total knowledge out there relating to programming and left me  hungry to learn more. I felt wan looking at the projects and products of the companies that I wanted to work for. To me it seemed like I had to be as good as other developers before anyone would even consider paying me to do anything.
 
 My stress about finding a job and my insecurities about my skills set me adrift. My time was divided and unfocused, a few hours learning about CS fundamentals, a few improving my old projects, a few starting new projects, a few looking up jobs, a few at home, a few at GA, a few at coffee shops.
 
