@@ -17,7 +17,7 @@ That is, surround yourself with better developers.
 
 Work will be one way to do this for many of you, but you may not be so lucky, and at some point, you may be the best developer at your company (crazy, right?)
 
-#### Non-Work Peers
+#### Outside of Work
 
 Learn from people outside of work, whether that's IRL at meet-ups and conferences or through online communities (e.g., GitHub, StackOverflow, social media).
 
@@ -38,9 +38,6 @@ Finding a mentor isn't easy, but some things might help...
 
 * Find an "accountabili-buddy" and set measurable, achievable goals for each other.
 * Walk through [leveling up as a developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/).
-* Experience the ins and outs of programming for different platforms.
-* Enhance your understanding of the building blocks that we use as developers.
-* Enlighten yourself with [koans](http://www.lauradhamilton.com/learn-a-new-programming-language-today-with-koans), [katas](http://codekata.com/) and the wisdom of ages.
 * Read a book.
 * Read the source code for a framework or tool that you have used.
 * Root cause analysis: every bug you fix is a level up, but you have to understand why it happened.
