@@ -1,6 +1,8 @@
 # Life After WDI
 
-# A Word From Outcomes
+# Outcomes
+
+Portfolio Standup - Next Tuesday, August 16th
 
 # Stay Hungry
 
@@ -76,7 +78,7 @@ How do you go about doing that?
 * Talk about when you failed.
 * Talk about how you will learn what you don't know.
 
-> You've had a lot of experiences here - leverage those experiences as you progress forward
+> You've had a lot of experiences here - leverage those experiences as you progress forward.
 
 ## Confidence
 
@@ -84,4 +86,4 @@ Most graduates don't struggle with a lack of knowledge or understanding, but mor
 * Think about where you were 12 weeks ago. What about 6, even 3? I interviewed all of you, so I know!
 * Think about how much you will be learning from here on out.
 
-> Confidence is huge -- trust yourself and trust what you are able to accomplish
+> Confidence is huge -- trust yourself and trust what you are able to accomplish,
