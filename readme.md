@@ -27,14 +27,16 @@ Learn from people outside of work, whether that's IRL at meet-ups and conference
 
 The good news is that there are lots of people who know a lot about programming, and may be willing to mentor you. Finding a mentor isn't easy, but some things might help...
 
-#### Work in the open
+#### Work in the Open
+
 * People giving feedback on a github commit is valuable and could lead to longer discussions on code.
 * Answer questions on StackOverflow.
 * People are more willing to help those who help others.
 
 > ![answer on stackoverflow](https://pbs.twimg.com/media/CpC4vBUVIAA2_PB.jpg)
 
-#### Serve as a mentor for others
+#### Serve as a Mentor for Others
+
 * Many of you are fortunate to have some structured ways in which you'll be helping others. For those of you who don't, seek out organizations devoted to helping people. They often have training and resources.
 * Teaching is a fantastic way to improve your skills.
 * People are more willing to help those who help others.
@@ -64,17 +66,22 @@ I was trying to do everything at once and as a result didn't make much progress 
 
 # Confidence and the Job Search
 
-* Framing what you don't know
-	* Washington Post Example - goal of phone screen is to identify what you don't know.
-	* How will you frame what you don't know?
-		* Talk about what you've learned
-		* Talk about the obsticales that you've overcame
-		* Talk about when you failed
-		* Talk about how you will learn what you don't know
-	* You've had a lot of experiences here - leverage those experiences as you progress forward
-* Confidence
-	* Most graduates don't struggle with a lack of knownledge or understanding, but more a lack of confidence!
-	* Think about what you have learned in 12 weeks
-		*Think about where you were 12 weeks ago. 6 weeks ago, etc. (I interviewed all of you, so I know!)
-	*Think about all the things that you will continue to learn as a developer
-	*Confidence is huge -- trust yourself and trust what you are able to accomplish
+## Framing What You Don't Know
+
+Being able to express what you don't know if an important skill to have, especially in job interviews. The Washington Post, for example, use their phone screen as an opportunity to identify what you don't know.
+
+How do you go about doing that?
+* Talk about what you've learned.
+* Talk about the obstacles you've overcome.
+* Talk about when you failed.
+* Talk about how you will learn what you don't know.
+
+> You've had a lot of experiences here - leverage those experiences as you progress forward
+
+## Confidence
+
+Most graduates don't struggle with a lack of knowledge or understanding, but more a lack of confidence!
+* Think about where you were 12 weeks ago. What about 6, even 3? I interviewed all of you, so I know!
+* Think about how much you will be learning from here on out.
+
+> Confidence is huge -- trust yourself and trust what you are able to accomplish
