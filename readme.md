@@ -9,32 +9,32 @@ The journey doesn't end here. There's always...
 * A better way to do what you're trying to do.
 * Entire worlds and paradigms in programming that you've probably never heard of, let alone understand.
 
-### Become Mediocre
+## Become Mediocre
 
 That is, surround yourself with better developers.
 
-#### Work
+### Work
 
 Work will be one way to do this. Chances are you will be part of a team with higher-level developers who have been in the industry for years. Don't pass up on learning their tricks of the trade.
 
 > Some of you might end up working somewhere where you're the only -- and therefore the most experienced -- developer on the team!
 
-#### Outside of Work
+### Outside of Work
 
 Learn from people outside of work, whether that's IRL at meet-ups and conferences or through online communities (e.g., GitHub, StackOverflow, social media).
 
-#### Mentorship
+### Mentorship
 
 The good news is that there are lots of people who know a lot about programming, and may be willing to mentor you. Finding a mentor isn't easy, but some things might help...
 
-Work in the open
+#### Work in the open
 * People giving feedback on a github commit is valuable and could lead to longer discussions on code.
 * Answer questions on StackOverflow.
 * People are more willing to help those who help others.
 
 ![answer on stackoverflow](https://pbs.twimg.com/media/CpC4vBUVIAA2_PB.jpg)
 
-Serve as a mentor for others
+#### Serve as a mentor for others
 * Many of you are fortunate to have some structured ways in which you'll be helping others. For those of you who don't, seek out organizations devoted to helping people. They often have training and resources.
 * Teaching is a fantastic way to improve your skills.
 * People are more willing to help those who help others.
