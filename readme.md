@@ -43,6 +43,8 @@ Finding a mentor isn't easy, but some things might help...
 * Root cause analysis: every bug you fix is a level up, but you have to understand why it happened.
 * Listen to podcasts like Ruby Rogues and Javascript Jabber.
 
+> Never stop learning. Keep that mind sharp. This is important not only for the time between now and your first job, but for the rest of your life.
+
 # Stay Focused
 
 After WDI I felt like an imposter, and that despite all I had learned I still wasn't qualified to be employed anywhere.
