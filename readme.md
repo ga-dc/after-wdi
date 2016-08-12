@@ -1,46 +1,53 @@
 # Life After WDI
 
-# A word from Outcomes
+# A Word From Outcomes
 
-# Stay Hungry (Adam)
+# Stay Hungry
 
-* Stay hungry... there's always:
-	* more to learn
-	* a better way to do what you're trying to do
-	* entire worlds / paradigms in programming that you've probably never heard of, let alone understand
-* Become Mediocre: That is, surround yourself with better developers.
-	* Work
-		* Work will be one way to do this for many of you, but you may not be so lucky, and at some point, you may be the best developer at your company (crazy, right?)
-	* Non-work Peers
-		* Attend meetups, conferences, etc.
-	* Find a mentor
-		* The good news is that there are lots of people who know a lot about programming, and may be willing to mentor you.
-		* Finding a mentor isn't easy, but some things might help:
-		  * work in the open
-		  	* people giving feedback on a github commit is valuable, and could lead to longer discussions on code
-		  	* people are more willing to help those who help others
-		  * serve as a mentor for others
-		    * many of you are fortunate to have some structured ways in which you'll be helping others, for those of you who don't, seek out organizations devoted to helping people
-		    	* they often have training / resources
-		    * teaching is a fantastic way to improve your skills
-		  	* people are more willing to help those who help others
-* Find an accountabili-buddy: set measurable, achievable goals for yourself.
-	* Walk through [leveling up as a developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
-	* Learn a variety of programming paradigms:
-	* Experience the ins and outs of programming for different platforms:
-	* Enhance your understanding of the building blocks that we use as developers:
-	* Enlighten yourself with koans, katas, and the wisdom of ages:
-	* Program in the open:
-	* Learn by teaching others:
-* Read a book
+The journey doesn't end here. There's always...
+* More to learn.
+* A better way to do what you're trying to do.
+* Entire worlds and paradigms in programming that you've probably never heard of, let alone understand.
+
+### Become Mediocre
+
+That is, surround yourself with better developers.
+
+#### Work
+
+Work will be one way to do this for many of you, but you may not be so lucky, and at some point, you may be the best developer at your company (crazy, right?)
+
+#### Non-work Peers
+
+Attend meetups, conferences, etc.
+
+#### Mentorship
+
+The good news is that there are lots of people who know a lot about programming, and may be willing to mentor you.
+
+Finding a mentor isn't easy, but some things might help...
+* Work in the open
+	* People giving feedback on a github commit is valuable and could lead to longer discussions on code.
+	* People are more willing to help those who help others.
+* Serve as a mentor for others
+  * Many of you are fortunate to have some structured ways in which you'll be helping others. For those of you who don't, seek out organizations devoted to helping people. They often have training and resources.
+  * Teaching is a fantastic way to improve your skills.
+	* People are more willing to help those who help others.
+
+### Other Ways to Stay Hungry
+
+* Find an "accountabili-buddy" and use them to set measurable, achievable goals for yourself.
+* Walk through [leveling up as a developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/).
+* Experience the ins and outs of programming for different platforms.
+* Enhance your understanding of the building blocks that we use as developers.
+* Enlighten yourself with koans, katas, and the wisdom of ages.
+* Read a book.
 * Read source code (i.e. for rails, backbone, underscore, or anything that you use).
 * Every bug you fix is a level up, but you have to understand why it happened. (Root cause analysis)
-* Listen to podcasts (railscasts, Ruby Rogues, etc)
+* Listen to podcasts (e.g., Ruby Rogues, Javascript Jabber).
 * Understand that all programming happens in a domain. Learn the domain you're working in well, and own it.
-* Take responsibility for the code that you write. Be professional.
-* Focus on quality.
 
-# Stay focused (Tyler)
+# Stay Focused
 
 After WDI I felt like an imposter, and that despite all I had learned I still wasn't qualified to be employed anywhere.
 
@@ -51,7 +58,7 @@ My stress about finding a job and my insecurities about my skills set me adrift.
 I was trying to do everything at once and as a result didn't make much progress on anything. If I was to do it over again I would have spent the time prior to the meet and hire focused completely on improving my old projects. Then after the meet and hire spent as much time as possible applying to jobs and interviewing.
 
 
-# The Job Search and Confidence (Brian)
+# Confidence and the Job Search
 
 * Framing what you don't know
 	* Washington Post Example - goal of phone screen is to identify what you don't know.
@@ -60,12 +67,10 @@ I was trying to do everything at once and as a result didn't make much progress 
 		* Talk about the obsticales that you've overcame
 		* Talk about when you failed
 		* Talk about how you will learn what you don't know
-	* You've had a lot of experiences here - leverage those experiences as you progress forward 
-* Confidence 
+	* You've had a lot of experiences here - leverage those experiences as you progress forward
+* Confidence
 	* Most graduates don't struggle with a lack of knownledge or understanding, but more a lack of confidence!
 	* Think about what you have learned in 12 weeks
 		*Think about where you were 12 weeks ago. 6 weeks ago, etc. (I interviewed all of you, so I know!)
 	*Think about all the things that you will continue to learn as a developer
 	*Confidence is huge -- trust yourself and trust what you are able to accomplish
-	
-
