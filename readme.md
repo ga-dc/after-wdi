@@ -51,7 +51,7 @@ The good news is that there are lots of people who know a lot about programming,
 * Read a book.
 * Read the source code for a framework or tool that you have used.
 * Root cause analysis: every bug you fix is a level up, but you have to understand why it happened.
-* Listen to podcasts like Ruby Rogues and Javascript Jabber.
+* Listen to podcasts like [Ruby Rogues](https://devchat.tv/ruby-rogues) and [Javascript Jabber](https://devchat.tv/js-jabber).
 
 > Never stop learning. Keep that mind sharp. This is important not only for the time between now and your first job, but for the rest of your life.
 
