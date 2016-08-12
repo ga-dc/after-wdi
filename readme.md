@@ -32,7 +32,7 @@ The good news is that there are lots of people who know a lot about programming,
 * Answer questions on StackOverflow.
 * People are more willing to help those who help others.
 
-![answer on stackoverflow](https://pbs.twimg.com/media/CpC4vBUVIAA2_PB.jpg)
+> ![answer on stackoverflow](https://pbs.twimg.com/media/CpC4vBUVIAA2_PB.jpg)
 
 #### Serve as a mentor for others
 * Many of you are fortunate to have some structured ways in which you'll be helping others. For those of you who don't, seek out organizations devoted to helping people. They often have training and resources.
