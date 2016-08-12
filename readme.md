@@ -55,17 +55,6 @@ The good news is that there are lots of people who know a lot about programming,
 
 > Never stop learning. Keep that mind sharp. This is important not only for the time between now and your first job, but for the rest of your life.
 
-# Stay Focused
-
-After WDI I felt like an imposter, and that despite all I had learned I still wasn't qualified to be employed anywhere.
-
-I was going to a couple meetups a week and interacting with developers that had many more years of experience than me. They made me keenly aware of how little I knew out of the total knowledge out there relating to programming and left me  hungry to learn more. I felt wan looking at the projects and products of the companies that I wanted to work for. To me it seemed like I had to be as good as other developers before anyone would even consider paying me to do anything.
-
-My stress about finding a job and my insecurities about my skills set me adrift. My time was divided and unfocused, a few hours learning about CS fundamentals, a few improving my old projects, a few starting new projects, a few looking up jobs, a few at home, a few at GA, a few at coffee shops.
-
-I was trying to do everything at once and as a result didn't make much progress on anything. If I was to do it over again I would have spent the time prior to the meet and hire focused completely on improving my old projects. Then after the meet and hire spent as much time as possible applying to jobs and interviewing.
-
-
 # Confidence and the Job Search
 
 ## Framing What You Don't Know
