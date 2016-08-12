@@ -15,7 +15,9 @@ That is, surround yourself with better developers.
 
 #### Work
 
-Work will be one way to do this for many of you, but you may not be so lucky, and at some point, you may be the best developer at your company (crazy, right?)
+Work will be one way to do this. Chances are you will be part of a team with higher-level developers who have been in the industry for years. Don't pass up on learning their tricks of the trade.
+
+> Some of you might end up working somewhere where you're the only -- and therefore the most experienced -- developer on the team!
 
 #### Outside of Work
 
