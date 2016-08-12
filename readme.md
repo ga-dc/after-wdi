@@ -25,16 +25,20 @@ Learn from people outside of work, whether that's IRL at meet-ups and conference
 
 #### Mentorship
 
-The good news is that there are lots of people who know a lot about programming, and may be willing to mentor you.
+The good news is that there are lots of people who know a lot about programming, and may be willing to mentor you. Finding a mentor isn't easy, but some things might help...
 
-Finding a mentor isn't easy, but some things might help...
-* Work in the open
-	* People giving feedback on a github commit is valuable and could lead to longer discussions on code.
-	* People are more willing to help those who help others.
-* Serve as a mentor for others
-  * Many of you are fortunate to have some structured ways in which you'll be helping others. For those of you who don't, seek out organizations devoted to helping people. They often have training and resources.
-  * Teaching is a fantastic way to improve your skills.
-	* People are more willing to help those who help others.
+Work in the open
+* People giving feedback on a github commit is valuable and could lead to longer discussions on code.
+* Answer questions on StackOverflow.
+* People are more willing to help those who help others.
+
+![answer on stackoverflow](https://pbs.twimg.com/media/CpC4vBUVIAA2_PB.jpg)
+
+Serve as a mentor for others
+* Many of you are fortunate to have some structured ways in which you'll be helping others. For those of you who don't, seek out organizations devoted to helping people. They often have training and resources.
+* Teaching is a fantastic way to improve your skills.
+* People are more willing to help those who help others.
+
 
 ### Other Ways to Stay Hungry
 
