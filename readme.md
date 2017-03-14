@@ -1,5 +1,6 @@
 # Life After WDI
 
+# Word from Outcomes
 Congratulations!  Sarah and Joy are so proud of all you have accomplished and are stoked to work with you until you sign your acceptance letter! 
 
 Some things to keep in mind: 
@@ -8,7 +9,7 @@ Some things to keep in mind:
  - Remember that the next 45 days are the most critical in your job search.  Use the momentum and the structure you had in class during this time. 
 
 
-## Logistics
+## Outcomes Logistics
 
 ### [Portfolio Reviews](https://github.com/ga-dc/outcomes/tree/master/roadmap/week13) (next week during normal outcomes time) 
 
