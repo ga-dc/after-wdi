@@ -6,6 +6,9 @@ Some things to keep in mind:
  - You are in the drivers seat of your job search.  You will dictate the success you have by the effort you put into it. 
  - All final materials MUST be done by Outcomes Bootcamp 
  - Remember that the next 45 days are the most critical in your job search.  Use the momentum and the structure you had in class during this time. 
+ - [Portfolio Reviews](https://github.com/ga-dc/outcomes/tree/master/roadmap/week13)
+ - [Outcomes Bootcamp](https://github.com/ga-dc/outcomes/blob/master/roadmap/Outcomes%20Bootcamp/readme.md)
+ - [Student Spotlight](https://github.com/ga-dc/outcomes/blob/master/roadmap/Student%20Spotlight/readme.md)
 
 ## Logistics: 
 Portfolio Reviews (next week during normal outcomes time) - This is your opportunity to get feedback on what looks good, what works, and how well you present you materials...so be ready with what you want feedback on. 
