@@ -1,5 +1,15 @@
 # Life After WDI
 
+Congratulations!  Sarah and Joy are so proud of all you have accomplished and are stoked to work with you until you sign your acceptance letter! 
+Some things to keep in mind: 
+-You are in the drivers seat of your job search.  You will dictate the success you have by the effort you put into it. 
+-All final materials MUST be done by Outcomes Bootcamp 
+-Remember that the next 45 days are the most critical in your job search.  Use the momentum and the structure you had in class during this time. 
+Logistics: 
+Portfolio Reviews (next week during normal outcomes time) - This is your opportunity to get feedback on what looks good, what works, and how well you present you materials...so be ready with what you want feedback on. 
+10:00-3:30 Outcomes Bootcamp (next Friday)- This will be your final prep for your Student Spotlight. Reminder that you MUST have your FINAL Resume, Cover Letter, LinkedIn Profile, GA Profile and Portfolio accessible and ready to do a final walkthrough with Sarah or Joy. 
+3:00-7:00 Student Spotlight- Showoff all the work you have done to Hiring Managers, Recruiters, and members of our GA Community who are excited to see all of your hard work!
+
 # Outcomes
 
 Portfolio Standup - Next Tuesday, August 16th
