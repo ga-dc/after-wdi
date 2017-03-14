@@ -21,10 +21,6 @@ This will be your final prep for your Student Spotlight. Reminder that you MUST 
 
 Showoff all the work you have done to Hiring Managers, Recruiters, and members of our GA Community who are excited to see all of your hard work!
 
-# Outcomes
-
-Portfolio Standup - Next Tuesday, August 16th
-
 # Stay Hungry
 
 The journey doesn't end here. There's always...
@@ -96,4 +92,4 @@ Most graduates don't struggle with a lack of knowledge or understanding, but mor
 * Think about where you were 12 weeks ago. What about 6, even 3? I interviewed all of you, so I know!
 * Think about how much you will be learning from here on out.
 
-> Confidence is huge -- trust yourself and trust what you are able to accomplish,
+> Confidence is huge -- trust yourself and trust what you are able to accomplish.
