@@ -1,6 +1,7 @@
 # Life After WDI
 
-# Word from Outcomes
+## Outcomes: Next Steps
+
 Congratulations!  Sarah and Joy are so proud of all you have accomplished and are stoked to work with you until you sign your acceptance letter! 
 
 Some things to keep in mind: 
@@ -8,20 +9,25 @@ Some things to keep in mind:
  - All final materials MUST be done by Outcomes Bootcamp 
  - Remember that the next 45 days are the most critical in your job search.  Use the momentum and the structure you had in class during this time. 
 
-
 ## Outcomes Logistics
 
-### [Portfolio Reviews](https://github.com/ga-dc/outcomes/tree/master/roadmap/week13) (next week during normal outcomes time) 
+### [Portfolio Reviews](https://github.com/ga-dc/outcomes/tree/master/roadmap/week13)
 
-This is your opportunity to get feedback on what looks good, what works, and how well you present you materials...so be ready with what you want feedback on. 
+**Wednesday, April 12th / 2:30PM - 4:30PM**
 
-### 10:00-3:30 [Outcomes Bootcamp](https://github.com/ga-dc/outcomes/blob/master/roadmap/Outcomes%20Bootcamp/readme.md) (next Friday)
+This is your opportunity to get feedback on what looks good, what works, and how well you present you materials. Be ready with what you want feedback on. 
 
-This will be your final prep for your Student Spotlight. Reminder that you MUST have your FINAL Resume, Cover Letter, LinkedIn Profile, GA Profile and Portfolio accessible and ready to do a final walkthrough with Sarah or Joy. 
+### [Outcomes Bootcamp](https://github.com/ga-dc/outcomes/blob/master/roadmap/Outcomes%20Bootcamp/readme.md)
 
-### 3:00-7:00 [Student Spotlight](https://github.com/ga-dc/outcomes/blob/master/roadmap/Student%20Spotlight/readme.md)
+**Friday, April 14th / 10:00AM - 3:30PM**
 
-Showoff all the work you have done to Hiring Managers, Recruiters, and members of our GA Community who are excited to see all of your hard work!
+This will be your final prep for the Student Spotlight. Reminder that you MUST have your final resume, cover letter, LinkedIn profile, GA profile and portfolio accessible and ready to do a final walkthrough with Sarah or Joy. 
+
+### [Student Spotlight](https://github.com/ga-dc/outcomes/blob/master/roadmap/Student%20Spotlight/readme.md)
+
+**Wednesday, April 19th / 4:00PM - 6:30PM**
+
+Showoff all the work you have done to hiring managers, recruiters, and members of our GA Community who are excited to see all of your hard work!
 
 # Stay Hungry
 
@@ -61,7 +67,6 @@ The good news is that there are lots of people who know a lot about programming,
 * Many of you are fortunate to have some structured ways in which you'll be helping others. For those of you who don't, seek out organizations devoted to helping people. They often have training and resources.
 * Teaching is a fantastic way to improve your skills.
 * People are more willing to help those who help others.
-
 
 ### Other Ways to Stay Hungry
 
