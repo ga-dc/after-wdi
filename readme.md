@@ -25,7 +25,7 @@ This will be your final prep for the Student Spotlight. Reminder that you MUST h
 
 ### [Student Spotlight](https://github.com/ga-dc/outcomes/blob/master/roadmap/Student%20Spotlight/readme.md)
 
-**Wednesday, August 2nd, 4:00PM - 6:30PM**
+**Wednesday, August 2nd / 4:00PM - 6:30PM**
 
 Showoff all the work you have done to hiring managers, recruiters, and members of our GA Community who are excited to see all of your hard work!
 
