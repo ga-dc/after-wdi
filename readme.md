@@ -2,30 +2,30 @@
 
 ## Outcomes: Next Steps
 
-Congratulations!  Sarah and Joy are so proud of all you have accomplished and are stoked to work with you until you sign your acceptance letter! 
+Congratulations!  Sarah and Joy are so proud of all you have accomplished and are stoked to work with you until you sign your acceptance letter!
 
-Some things to keep in mind: 
- - You are in the drivers seat of your job search.  You will dictate the success you have by the effort you put into it. 
- - All final materials MUST be done by Outcomes Bootcamp 
- - Remember that the next 45 days are the most critical in your job search.  Use the momentum and the structure you had in class during this time. 
+Some things to keep in mind:
+ - You are in the drivers seat of your job search.  You will dictate the success you have by the effort you put into it.
+ - All final materials MUST be done by Outcomes Bootcamp
+ - Remember that the next 45 days are the most critical in your job search.  Use the momentum and the structure you had in class during this time.
 
 ## Outcomes Logistics
 
 ### [Portfolio Reviews](https://github.com/ga-dc/outcomes/tree/master/roadmap/week13)
 
-**Wednesday, April 12th / 2:30PM - 4:30PM**
+**Wednesday, July 26th / 2:30PM - 4:30PM**
 
-This is your opportunity to get feedback on what looks good, what works, and how well you present you materials. Be ready with what you want feedback on. 
+This is your opportunity to get feedback on what looks good, what works, and how well you present you materials. Be ready with what you want feedback on.
 
 ### [Outcomes Bootcamp](https://github.com/ga-dc/outcomes/blob/master/roadmap/Outcomes%20Bootcamp/readme.md)
 
-**Friday, April 14th / 10:00AM - 3:30PM**
+**Friday, July 28th / 10:00AM - 3:30PM**
 
-This will be your final prep for the Student Spotlight. Reminder that you MUST have your final resume, cover letter, LinkedIn profile, GA profile and portfolio accessible and ready to do a final walkthrough with Sarah or Joy. 
+This will be your final prep for the Student Spotlight. Reminder that you MUST have your final resume, cover letter, LinkedIn profile, GA profile and portfolio accessible and ready to do a final walkthrough with Sarah or Joy.
 
 ### [Student Spotlight](https://github.com/ga-dc/outcomes/blob/master/roadmap/Student%20Spotlight/readme.md)
 
-**Wednesday, April 19th / 4:00PM - 6:30PM**
+**Wednesday, August 2nd, 4:00PM - 6:30PM**
 
 Showoff all the work you have done to hiring managers, recruiters, and members of our GA Community who are excited to see all of your hard work!
 
@@ -56,7 +56,7 @@ The good news is that there are lots of people who know a lot about programming,
 
 #### Work in the Open
 
-* People giving feedback on a github commit is valuable and could lead to longer discussions on code.
+* People giving feedback on a GitHub commit is valuable and could lead to longer discussions on code.
 * Answer questions on StackOverflow.
 * People are more willing to help those who help others.
 
